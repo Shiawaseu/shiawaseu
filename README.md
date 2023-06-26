@@ -1,8 +1,4 @@
 <h1 align="center">💫Full-Stack Developer 💫</h1>
-	
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/733642426006241305/1081968746421309470/image.png">
-</p>
 
 ## ❔ Currently learning -> `C#`
 
