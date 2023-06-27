@@ -26,6 +26,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![LUA](https://img.shields.io/badge/-LUA-6600ff?style=for-the-badge&logo=lua&logoColor=1)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=REACT&logoColor=1)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=1)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
