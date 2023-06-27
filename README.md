@@ -4,7 +4,7 @@
 
 ## 👨‍💻 All of my projects are available [here](https://github.com/MEMEZNUT999?tab=repositories)
 
-## 📫 How to reach me -> *@shiawase._ on Discord | t.me/SHlAWASE on Telegram*
+## 📫 How to reach me -> *@shiawaseu on Discord | t.me/SHlAWASE on Telegram*
 
 
 	
