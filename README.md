@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![CSharp](https://img.shields.io/badge/-CSharp-?style=for-the-badge&logo=CSHARP&logoColor=7300E2&labelColor=000000&color=000000)
-![NET](https://img.shields.io/badge/-.NET-?style=for-the-badge&logo=dotnet&logoColor=000000&labelColor=000000&color=7300E2)
+![.NET](https://img.shields.io/badge/-.NET-%23F7DF1C?style=for-the-badge&logo=dotnet&logoColor=000000&labelColor=%000000&color=7300E2)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/jQuery-f56200?style=for-the-badge&logo=jquery&logoColor=white)
