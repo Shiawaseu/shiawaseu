@@ -1,15 +1,13 @@
 <h1 align="center">💫Full-Stack Developer 💫</h1>
 
-## ❔ Currently learning -> `C#`
-
 ## 👨‍💻 All of my projects are available [here](https://github.com/MEMEZNUT999?tab=repositories)
 
 ## 📫 How to reach me -> *@shiawaseu on Discord | t.me/SHlAWASE on Telegram*
-
-
 	
 # 🛠 &nbsp;Languages and Tools
 
+![C#](https://img.shields.io/badge/-CSharp-%23F7DF1C?style=for-the-badge&logo=CSHARP&logoColor=7300E2&labelColor=%000000&color=000000)
+![C#](https://img.shields.io/badge/-.NET-%23F7DF1C?style=for-the-badge&logo=dotnet&logoColor=000000&labelColor=%000000&color=7300E2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 <br>
