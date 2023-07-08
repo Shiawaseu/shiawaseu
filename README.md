@@ -6,6 +6,8 @@
 	
 # 🛠 &nbsp;Languages and Tools
 
+<p align="left"> <a href="https://github.com/MEMEZNUT999"><img src="https://skillicons.dev/icons?i=cs,cpp,javascript,nodejs,python,lua,mysql,php,next,react,html,jquery,vscode,markdown,git,batch"> </a> </p>
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
