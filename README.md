@@ -1,11 +1,22 @@
 
-### 🌐&nbsp;Contacts 
- <br/> <img height="50em" width="50rem" src="/assets/discord.svg"/>    **@shiawaseu**              <img height="50em" width="50rem" src="/assets/telegram.svg"/> **@SHlAWASE**
-<br/><br/>
-### 🛠 &nbsp;Languages & Tools
-<p align="left"> <a href="https://github.com/shiawaseu"><img src="https://skillicons.dev/icons?i=cs,javascript,nodejs,typescript,python,lua,astro,next,react,vscode"> </a> </p>
+# 🌐&nbsp;Contacts 
+<div style="display: flex; align-items: center;">
+  <a href="mailto:shiawaseu@proton.me" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="75em" width="75rem"/>
+  </a>
+  <a href="https://discord.com/users/1115643711666278521" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="75em" width="75rem"/>
+  </a>
+  <a href="https://v3rm.net/members/shiawase.12118/" target="_blank">
+    <img src="https://cdn.s-studs.com/favicon.ico" height="75em" width="75rem"/>
+  </a>
+</div>
 
-### ⚙️ &nbsp;GitHub Analytics
+# 🛠 &nbsp;Languages & Tools
+<p align="left"> <a href="https://github.com/shiawaseu"><img src="https://go-skill-icons.vercel.app/api/icons?i=cs,javascript,nodejs,typescript,python,luau,lua,astro,next,react,vscode,visualstudio"> </a> </p>
+
+
+# ⚙️ &nbsp;GitHub Analytics
 
 <br/><p align="center">
 <a href="https://github.com/shiawaseu">
