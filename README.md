@@ -2,7 +2,7 @@
 # 🌐&nbsp;Contacts 
 <div style="display: flex; align-items: center;">
   <a href="mailto:shiawaseu@proton.me" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="75em" width="75rem"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=proton" height="75em" width="75rem"/>
   </a>
   <a href="https://discord.com/users/1115643711666278521" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="75em" width="75rem"/>
