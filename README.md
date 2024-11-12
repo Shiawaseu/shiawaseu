@@ -7,9 +7,6 @@
   <a href="https://discord.com/users/1115643711666278521" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="75em" width="75rem"/>
   </a>
-  <a href="https://x.com/shiawaseuu" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" height="75em" width="75rem"/>
-  </a>
 </div>
 
 # 🛠 &nbsp;Languages & Tools
