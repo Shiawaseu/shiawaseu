@@ -1,7 +1,7 @@
 Discord: `@shiawaseu (1115643711666278521)`  
 Email: <a href="mailto:shiawaseu@proton.me">shiawaseu@proton.me</a>  
 
-# ⚙️ GitHub Analytics
+---
 
 <p align="center">
   <a href="https://github.com/shiawaseu">
