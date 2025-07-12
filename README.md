@@ -22,5 +22,5 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shiawaseu/readme-weather-card/main/public/cards/weather-github-dark.png" alt="Weather Card" width="510" height="300" />
+  <img src="https://raw.githubusercontent.com/fyisaud/readme-weather-card/main/public/cards/weather-github-dark.png" alt="Weather Card" width="510" height="300" />
 </p>
