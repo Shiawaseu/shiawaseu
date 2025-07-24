@@ -1,4 +1,4 @@
-![☆ ★](/assets/banner.jpg)
+<!-- ![☆ ★](/assets/banner.jpg) -->
 
 - **Discord**: `@shiawaseu (1115643711666278521)`
 - **Email**: [shiawaseu@proton.me](mailto:shiawaseu@proton.me)
