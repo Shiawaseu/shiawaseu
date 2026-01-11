@@ -43,10 +43,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
 
-          # Licenses
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          
           # Stars
           plugin_stars: yes
           plugin_stars_limit: 4
