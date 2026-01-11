@@ -6,6 +6,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -17,6 +19,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Riyadh
           filename: metrics.svg
+          output_location: .
           repositories: 100
 
           # Sponsors
