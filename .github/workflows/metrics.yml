@@ -16,7 +16,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Riyadh
-          # workaround for insufficient token scopes issue
+          filename: metrics.svg
           repositories: 100
 
           # Activity
@@ -54,7 +54,7 @@ jobs:
           # Licenses
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-
+          
           # Stars
           plugin_stars: yes
           plugin_stars_limit: 4
