@@ -19,7 +19,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Riyadh
           filename: metrics.svg
-          output_location: .
           repositories: 100
 
           # Sponsors
