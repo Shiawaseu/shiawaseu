@@ -1,10 +1,14 @@
-<!-- ![☆ ★](/assets/banner.jpg) -->
+ ![☆ ★](/assets/banner.png) 
 
 - **Discord**: `@shiawaseu (1115643711666278521)`
 - **Email**: [shiawaseu@proton.me](mailto:shiawaseu@proton.me)
 
 ---
 
+![Metrics](/metrics.svg)
+
+
+<!--
 <table>
   <tr>
     <td>
@@ -24,3 +28,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/fyisaud/readme-weather-card/main/public/cards/weather-github-dark.png" alt="Weather Card" width="510" height="300" />
 </p>
+-->
