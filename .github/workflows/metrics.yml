@@ -29,8 +29,8 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
 
-          plugin_repositories: yes
-          plugin_repositories_starred: 3
+          plugin_repositories: no
+          plugin_repositories_pinned: 3
           plugin_repositories_affiliations: ""
           
           # Languages
@@ -51,7 +51,7 @@ jobs:
           plugin_notable_types: pull_request, issue
 
           # Stars
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 4
 
           # Traffic
