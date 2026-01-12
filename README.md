@@ -5,7 +5,12 @@
 
 ---
 
-![Metrics](/metrics.svg)
+<p align="left">
+  <img src="metrics.svg" width="50%" align="top">
+  &nbsp;&nbsp;
+  <img src="/assets/sidebanner.jpg" width="45%" align="top">
+</p>
+
 
 
 <!--
@@ -29,3 +34,4 @@
   <img src="https://raw.githubusercontent.com/fyisaud/readme-weather-card/main/public/cards/weather-github-dark.png" alt="Weather Card" width="510" height="300" />
 </p>
 -->
+
