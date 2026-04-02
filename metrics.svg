@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="585" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="567" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,8 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Bachelors in Computer Science @ KFUPM</div>
+                        <div class="introduction">
+                        </div>
                     </section>
                 </div>
             </section>
@@ -268,7 +269,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2026, 00:12:23 (timezone Asia/Riyadh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2026, 01:11:14 (timezone Asia/Riyadh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
